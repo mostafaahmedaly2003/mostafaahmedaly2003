@@ -52,11 +52,13 @@ Python tool for academic data processing and analysis.
 
 ---
 
-## 📊 GitHub Stats
+
+### 📊 Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafaahmedaly2003&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaahmedaly2003&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=mostafaahmedaly2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaahmedaly2003&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
