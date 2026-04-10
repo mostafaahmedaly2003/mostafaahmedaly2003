@@ -1,65 +1,86 @@
-<div align="center">
+<h1 align="center">Hi, I'm Mostafa Ahmed 👋</h1>
+<h3 align="center">AI/ML Engineer · Edge AI Security Researcher · Teaching Assistant @MUST</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mostafa-ahmed-ai/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mostafaahmedaly2003">
+    <img src="https://img.shields.io/badge/GitHub-mostafaahmedaly2003-181717?style=flat&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Cairo%2C_Egypt-informational?style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mostafaahmedaly2003&style=flat&color=blue" />
+</p>
 
-  
-# Mostafa Ahmed
-### AI/ML Engineer · 6th of October, Egypt
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-ahmed-ai)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Mostafaahmedaly2003@gmail.com)
-[![Paper](https://img.shields.io/badge/Nature-Published_2025-00aa44?style=flat-square&logo=buffer&logoColor=white)](https://www.nature.com/articles/s41598-025-18947-2)
-
+---
 
 ## About Me
 
-- 🎓 Communications & Electronics grad pivoting into AI/ML full-time
-- 🏫 Teaching Assistant at 6th of October University
-- 📄 Published in **Scientific Reports (Nature)** — 5,900+ reads
-- 🔐 Interested in the overlap between AI and cybersecurity
-- 🤝 Open to research collabs and AI/ML roles
+I'm an AI/ML engineer and Communications & Electronics researcher building at the intersection of **artificial intelligence and cybersecurity**. My work spans edge devices, wireless security systems, indoor positioning, and SOC automation.
+
+- **Published researcher** — *Real-time Detection of Wi-Fi Attacks using Hybrid Deep Learning on NodeMCU* · **Scientific Reports (Nature), 2025** · 5,900+ reads
+- **Teaching Assistant** in AI/ML — Misr University of Science & Technology (MUST)
+- Builder of production-representative security labs: Snort + Wazuh + SOAR pipelines
+- Focused on: **Edge AI · IoT Security · ML for Networking · SOC Automation**
 
 ---
 
-## 📄 Published Research
+## Technical Skills
 
-**[Real-time Detection of Wi-Fi Attacks using Hybrid Deep Learning on NodeMCU](https://www.nature.com/articles/s41598-025-18947-2)**  
-*Scientific Reports, Nature · 2025*
-
-Real-time Wi-Fi deauthentication attack detection using hybrid LSTM/GRU/RNN models
-running on a $3 NodeMCU ESP8266 microcontroller — **96% accuracy**, live OLED display,
-no cloud needed. Addresses the gap between heavy cloud IDS solutions and practical
-edge deployment with explainable AI.
-
----
-
-## 🛠 Tech Stack
-
-**Languages:** Python · C · HTML · Shell  
-**ML/AI:** TensorFlow · Scikit-learn · LSTM · GRU · RNN · KNN · SVM · MLP  
-**Tools:** Git · Flask · Jupyter · REST APIs · Arduino / NodeMCU  
-**Domains:** Deep Learning · IoT Security · Indoor Localization · Explainable AI
+| Domain | Technologies |
+|--------|-------------|
+| **ML / Deep Learning** | TensorFlow, Scikit-learn, LSTM, GRU, RNN, SVM, KNN, MLP |
+| **Security Tools** | Wazuh, Snort 3, T-Pot, Shuffle SOAR, Kali Linux, Sysmon |
+| **Languages** | Python, C, Shell/Bash |
+| **APIs & Deployment** | Flask, REST APIs, Jupyter Notebooks |
+| **Embedded / IoT** | NodeMCU, Arduino, ESP8266 |
+| **Frameworks / Standards** | NIST CSF 2.0, MITRE ATT&CK |
 
 ---
 
-## 📂 Projects
+## Featured Projects
 
-**[RSSI Indoor Localization](https://github.com/mostafaahmedaly2003/rssi-indoor-localization)**  
-WiFi fingerprint-based indoor positioning using KNN, MLP & SVM with a Flask REST API.
-
-**[SOC Monitoring Lab](https://github.com/mostafaahmedaly2003/SOC-monitoring-lab)**  
-Hands-on Security Operations Center lab environment.
-
-**[Student Grade Analyzer](https://github.com/mostafaahmedaly2003/student-grade-analyzer)**  
-Python tool for academic data processing and analysis.
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| [SOC Monitoring Lab](https://github.com/mostafaahmedaly2003/SOC-monitoring-lab) | Full SOC mini-lab: Snort IDS/IPS + Wazuh SIEM + T-Pot honeypot + Shuffle SOAR. 5–15s detection-to-block. | Security, Python | ✅ Live |
+| [WiFi Attack Detection](https://github.com/mostafaahmedaly2003/wifi-attack-detection-edge-ai) | Edge AI system detecting Wi-Fi deauth attacks in real-time on NodeMCU — 96% accuracy. Nature paper. | TF, LSTM, IoT | ✅ Published |
+| [RSSI Indoor Localization](https://github.com/mostafaahmedaly2003/rssi-indoor-localization) | ML system predicting indoor position from WiFi RSSI fingerprints. KNN/SVM/MLP + Flask REST API. | Python, sklearn | ✅ Live |
+| [Student Grade Analyzer](https://github.com/mostafaahmedaly2003/student-grade-analyzer) | Modular Python tool for academic performance analytics with visual dashboard and reports. | Python, pandas | ✅ Live |
 
 ---
 
-### 📊 Stats
+## Research Publication
 
-<div align="center">
+> **Real-time Detection of Wi-Fi Attacks using Hybrid Deep Learning on NodeMCU**  
+> *Scientific Reports — Nature Portfolio, 2025*  
+> Hybrid LSTM/GRU/RNN model deployed on a NodeMCU edge device achieving **96% accuracy** on real-time deauthentication attack detection.  
+> 5,900+ reads since publication.  
+> 📄 [Read the paper](https://www.nature.com/articles/YOUR_DOI_HERE) <!-- Replace YOUR_DOI_HERE with your actual DOI -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mostafaahmedaly2003&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+---
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mostafaahmedaly2003&theme=tokyonight&no-frame=true&row=1)
+## GitHub Stats
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafaahmedaly2003&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaahmedaly2003&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+## Learning Roadmap
+
+- [x] Hybrid Deep Learning for edge devices (published)
+- [x] SOC automation with open-source tools
+- [x] ML-based indoor positioning systems
+- [ ] LLM-powered security assistants
+- [ ] ML on network traffic datasets (CICIDS, NSL-KDD)
+- [ ] Google Professional ML Engineer certification
+
+---
+
+## Contact
+
+I'm open to **AI/ML research collaborations** and **engineering roles** in AI, security, or applied ML.
+
+📬 [LinkedIn](https://www.linkedin.com/in/mostafa-ahmed-ai/) · 📁 [GitHub](https://github.com/mostafaahmedaly2003)
